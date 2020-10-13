@@ -1,5 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ##
 
-Simple To-Do made for practice.
+Simple React To-Do made for practice.
